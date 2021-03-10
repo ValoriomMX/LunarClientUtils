@@ -38,8 +38,3 @@ setStaffModuleState(Player player, StaffModule module, boolean state);
 sendCooldown(Player player, LCCooldown cooldown);
 clearCooldown(Player player, LCCooldown cooldown);
 ```
-
-#### Contact
- * Discord: Elb1to#0001
- * Twitter: Elb1to
- * Telegram: Elb1to
